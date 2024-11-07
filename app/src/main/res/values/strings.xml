@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="click_mee">click mee</string>
+    <string name="title">meme_app</string>
+    <string name="just_meme_photo">just meme photo</string>
+    <string name="my_name_is_yousef">my name is yousef</string>
+    <string name="my_age_is_20">my age is 20</string>
+</resources>
